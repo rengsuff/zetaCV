@@ -43,7 +43,7 @@ const PROFILE = {
 const LINKS = [
   { label: "LinkedIn", href: "https://www.linkedin.com/in/samuel-bicalho-henriques", icon: Linkedin },
   { label: "Lattes CV", href: "http://lattes.cnpq.br/8472019357461028", icon: FileText },
-  { label: "GitHub", href: "https://github.com/samuelbhenriques", icon: Github },
+  { label: "GitHub", href: "https://github.com/zeta4166", icon: Github },
 ];
 
 const EDUCATION = {
